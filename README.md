@@ -28,3 +28,4 @@ Work with big data platforms (Snowflake, AWS).
 Maintain key reports, metrics, and workflows.
 Perform data reconciliation and ensure data quality.
 
+a realistic synthetic payments + reconciliation dataset and saved three CSVs 
