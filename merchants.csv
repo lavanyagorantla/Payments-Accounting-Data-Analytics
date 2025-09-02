@@ -1,0 +1,61 @@
+merchant_id,merchant_name,region,country,category
+M1000,Merchant_1,AMER,United States,Travel
+M1001,Merchant_2,AMER,Canada,Accommodation
+M1002,Merchant_3,APAC,Singapore,Travel
+M1003,Merchant_4,AMER,Brazil,Retail
+M1004,Merchant_5,APAC,Japan,Travel
+M1005,Merchant_6,APAC,India,Accommodation
+M1006,Merchant_7,APAC,India,Retail
+M1007,Merchant_8,APAC,Japan,Accommodation
+M1008,Merchant_9,EMEA,France,Travel
+M1009,Merchant_10,APAC,Japan,Transport
+M1010,Merchant_11,EMEA,Germany,Accommodation
+M1011,Merchant_12,EMEA,UK,Travel
+M1012,Merchant_13,EMEA,UK,Transport
+M1013,Merchant_14,EMEA,France,Travel
+M1014,Merchant_15,AMER,Canada,Retail
+M1015,Merchant_16,APAC,Japan,Travel
+M1016,Merchant_17,AMER,Canada,Retail
+M1017,Merchant_18,EMEA,Germany,Travel
+M1018,Merchant_19,APAC,Singapore,Transport
+M1019,Merchant_20,APAC,Singapore,Travel
+M1020,Merchant_21,EMEA,France,Food
+M1021,Merchant_22,AMER,Canada,Accommodation
+M1022,Merchant_23,EMEA,France,Accommodation
+M1023,Merchant_24,AMER,Canada,Travel
+M1024,Merchant_25,AMER,Brazil,Accommodation
+M1025,Merchant_26,AMER,Brazil,Accommodation
+M1026,Merchant_27,APAC,Japan,Food
+M1027,Merchant_28,EMEA,Germany,Transport
+M1028,Merchant_29,APAC,Singapore,Travel
+M1029,Merchant_30,EMEA,Netherlands,Transport
+M1030,Merchant_31,APAC,Singapore,Retail
+M1031,Merchant_32,AMER,Canada,Accommodation
+M1032,Merchant_33,AMER,Canada,Food
+M1033,Merchant_34,AMER,Canada,Accommodation
+M1034,Merchant_35,EMEA,Germany,Accommodation
+M1035,Merchant_36,AMER,Brazil,Retail
+M1036,Merchant_37,EMEA,Netherlands,Retail
+M1037,Merchant_38,EMEA,France,Accommodation
+M1038,Merchant_39,APAC,Japan,Travel
+M1039,Merchant_40,APAC,India,Accommodation
+M1040,Merchant_41,AMER,United States,Food
+M1041,Merchant_42,AMER,United States,Food
+M1042,Merchant_43,EMEA,Netherlands,Retail
+M1043,Merchant_44,EMEA,UK,Travel
+M1044,Merchant_45,AMER,Brazil,Transport
+M1045,Merchant_46,AMER,Canada,Travel
+M1046,Merchant_47,EMEA,Netherlands,Accommodation
+M1047,Merchant_48,EMEA,UK,Transport
+M1048,Merchant_49,AMER,United States,Retail
+M1049,Merchant_50,APAC,Australia,Retail
+M1050,Merchant_51,AMER,United States,Accommodation
+M1051,Merchant_52,EMEA,Germany,Retail
+M1052,Merchant_53,AMER,United States,Retail
+M1053,Merchant_54,EMEA,Netherlands,Travel
+M1054,Merchant_55,APAC,Australia,Transport
+M1055,Merchant_56,APAC,India,Accommodation
+M1056,Merchant_57,AMER,United States,Travel
+M1057,Merchant_58,AMER,Canada,Travel
+M1058,Merchant_59,AMER,United States,Accommodation
+M1059,Merchant_60,AMER,Canada,Retail

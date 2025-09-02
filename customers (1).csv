@@ -1,0 +1,801 @@
+customer_id,customer_name,signup_date,country,loyalty_tier
+C2000,Customer_1,2025-04-23,Australia,Platinum
+C2001,Customer_2,2024-05-25,Singapore,Gold
+C2002,Customer_3,2023-03-27,France,Platinum
+C2003,Customer_4,2024-11-06,Canada,Bronze
+C2004,Customer_5,2025-04-19,Singapore,Bronze
+C2005,Customer_6,2025-05-24,UK,Silver
+C2006,Customer_7,2023-09-03,United States,Bronze
+C2007,Customer_8,2025-07-14,India,Silver
+C2008,Customer_9,2023-11-28,India,Gold
+C2009,Customer_10,2025-04-04,Singapore,Gold
+C2010,Customer_11,2024-04-24,Canada,Silver
+C2011,Customer_12,2025-01-01,United States,Platinum
+C2012,Customer_13,2024-09-07,Japan,Platinum
+C2013,Customer_14,2024-05-02,India,Bronze
+C2014,Customer_15,2025-05-08,Canada,Gold
+C2015,Customer_16,2024-07-27,Netherlands,Platinum
+C2016,Customer_17,2025-04-26,United States,Bronze
+C2017,Customer_18,2023-03-16,Japan,Gold
+C2018,Customer_19,2023-10-10,Singapore,Silver
+C2019,Customer_20,2025-03-26,Japan,Silver
+C2020,Customer_21,2023-10-12,Germany,Gold
+C2021,Customer_22,2024-09-29,Germany,Bronze
+C2022,Customer_23,2023-06-26,UK,Bronze
+C2023,Customer_24,2024-08-25,Brazil,Bronze
+C2024,Customer_25,2024-03-30,Singapore,Silver
+C2025,Customer_26,2024-06-16,Netherlands,Platinum
+C2026,Customer_27,2023-05-21,Japan,Bronze
+C2027,Customer_28,2024-07-14,Japan,Bronze
+C2028,Customer_29,2025-01-24,France,Platinum
+C2029,Customer_30,2022-12-22,Netherlands,Platinum
+C2030,Customer_31,2024-10-31,Singapore,Gold
+C2031,Customer_32,2025-02-24,India,Bronze
+C2032,Customer_33,2024-05-01,Canada,Bronze
+C2033,Customer_34,2024-09-24,Japan,Silver
+C2034,Customer_35,2025-07-13,India,Silver
+C2035,Customer_36,2024-11-24,India,Silver
+C2036,Customer_37,2023-07-18,UK,Silver
+C2037,Customer_38,2023-03-31,Brazil,Bronze
+C2038,Customer_39,2024-01-21,United States,Platinum
+C2039,Customer_40,2024-04-16,Brazil,Gold
+C2040,Customer_41,2025-06-06,Germany,Gold
+C2041,Customer_42,2024-03-11,Australia,Platinum
+C2042,Customer_43,2023-09-22,Australia,Platinum
+C2043,Customer_44,2024-04-15,UK,Bronze
+C2044,Customer_45,2023-09-04,UK,Bronze
+C2045,Customer_46,2023-06-13,United States,Gold
+C2046,Customer_47,2025-01-26,Australia,Bronze
+C2047,Customer_48,2022-12-20,Australia,Gold
+C2048,Customer_49,2023-09-17,Japan,Gold
+C2049,Customer_50,2022-12-20,Brazil,Bronze
+C2050,Customer_51,2024-01-19,Brazil,Gold
+C2051,Customer_52,2023-03-12,United States,Silver
+C2052,Customer_53,2024-01-15,UK,Bronze
+C2053,Customer_54,2024-12-03,Brazil,Silver
+C2054,Customer_55,2023-04-25,France,Silver
+C2055,Customer_56,2024-03-17,Canada,Silver
+C2056,Customer_57,2025-03-26,Brazil,Gold
+C2057,Customer_58,2024-04-06,Canada,Gold
+C2058,Customer_59,2023-05-08,India,Platinum
+C2059,Customer_60,2023-10-27,UK,Bronze
+C2060,Customer_61,2025-07-14,Germany,Gold
+C2061,Customer_62,2023-04-16,Japan,Platinum
+C2062,Customer_63,2025-02-18,United States,Bronze
+C2063,Customer_64,2024-11-03,Singapore,Bronze
+C2064,Customer_65,2024-07-12,Germany,Platinum
+C2065,Customer_66,2023-12-12,India,Gold
+C2066,Customer_67,2024-09-22,UK,Gold
+C2067,Customer_68,2025-07-21,Singapore,Bronze
+C2068,Customer_69,2024-12-05,Netherlands,Silver
+C2069,Customer_70,2023-06-19,Singapore,Silver
+C2070,Customer_71,2024-08-23,UK,Silver
+C2071,Customer_72,2024-01-17,Canada,Platinum
+C2072,Customer_73,2023-02-18,Brazil,Silver
+C2073,Customer_74,2024-08-29,Germany,Bronze
+C2074,Customer_75,2025-05-04,UK,Platinum
+C2075,Customer_76,2024-08-02,Singapore,Platinum
+C2076,Customer_77,2022-12-22,France,Silver
+C2077,Customer_78,2024-05-06,India,Silver
+C2078,Customer_79,2024-06-02,France,Gold
+C2079,Customer_80,2024-03-13,Australia,Gold
+C2080,Customer_81,2023-06-20,Brazil,Platinum
+C2081,Customer_82,2023-01-04,Brazil,Gold
+C2082,Customer_83,2025-06-30,India,Gold
+C2083,Customer_84,2025-01-10,Australia,Bronze
+C2084,Customer_85,2025-05-15,Japan,Gold
+C2085,Customer_86,2023-01-15,Canada,Platinum
+C2086,Customer_87,2024-01-20,Brazil,Bronze
+C2087,Customer_88,2023-03-16,Germany,Gold
+C2088,Customer_89,2024-07-12,Japan,Bronze
+C2089,Customer_90,2025-08-02,Brazil,Silver
+C2090,Customer_91,2024-07-10,Netherlands,Bronze
+C2091,Customer_92,2024-01-16,Canada,Gold
+C2092,Customer_93,2025-04-20,United States,Gold
+C2093,Customer_94,2023-06-24,Canada,Platinum
+C2094,Customer_95,2023-05-05,Netherlands,Gold
+C2095,Customer_96,2024-04-14,United States,Silver
+C2096,Customer_97,2023-09-01,Netherlands,Silver
+C2097,Customer_98,2024-06-28,Brazil,Gold
+C2098,Customer_99,2023-08-05,UK,Gold
+C2099,Customer_100,2024-01-26,Germany,Platinum
+C2100,Customer_101,2025-02-23,Brazil,Gold
+C2101,Customer_102,2025-01-14,Netherlands,Platinum
+C2102,Customer_103,2022-12-20,United States,Platinum
+C2103,Customer_104,2024-11-07,United States,Bronze
+C2104,Customer_105,2023-03-25,France,Bronze
+C2105,Customer_106,2023-05-11,Australia,Silver
+C2106,Customer_107,2024-11-06,Singapore,Bronze
+C2107,Customer_108,2024-05-05,Singapore,Platinum
+C2108,Customer_109,2024-04-29,United States,Platinum
+C2109,Customer_110,2023-08-08,Germany,Platinum
+C2110,Customer_111,2024-11-25,Netherlands,Silver
+C2111,Customer_112,2023-09-02,India,Bronze
+C2112,Customer_113,2024-10-12,Germany,Silver
+C2113,Customer_114,2023-08-10,Brazil,Platinum
+C2114,Customer_115,2023-08-15,Singapore,Bronze
+C2115,Customer_116,2023-07-17,Germany,Platinum
+C2116,Customer_117,2024-08-31,Brazil,Gold
+C2117,Customer_118,2023-03-09,Netherlands,Platinum
+C2118,Customer_119,2025-06-12,Japan,Platinum
+C2119,Customer_120,2023-06-04,Germany,Gold
+C2120,Customer_121,2023-01-25,Canada,Silver
+C2121,Customer_122,2024-12-30,Netherlands,Bronze
+C2122,Customer_123,2023-07-02,Canada,Silver
+C2123,Customer_124,2025-01-28,France,Gold
+C2124,Customer_125,2024-07-20,United States,Silver
+C2125,Customer_126,2024-03-29,Singapore,Platinum
+C2126,Customer_127,2025-06-24,United States,Silver
+C2127,Customer_128,2025-02-28,Japan,Platinum
+C2128,Customer_129,2025-07-20,Netherlands,Platinum
+C2129,Customer_130,2023-05-14,Singapore,Platinum
+C2130,Customer_131,2025-05-31,UK,Platinum
+C2131,Customer_132,2023-03-31,UK,Gold
+C2132,Customer_133,2023-04-18,Netherlands,Platinum
+C2133,Customer_134,2024-03-01,Brazil,Silver
+C2134,Customer_135,2024-08-25,Germany,Gold
+C2135,Customer_136,2025-03-28,Netherlands,Bronze
+C2136,Customer_137,2023-10-26,France,Platinum
+C2137,Customer_138,2024-04-19,United States,Platinum
+C2138,Customer_139,2025-06-02,India,Platinum
+C2139,Customer_140,2025-03-18,Brazil,Bronze
+C2140,Customer_141,2024-03-23,Japan,Silver
+C2141,Customer_142,2023-12-20,Germany,Bronze
+C2142,Customer_143,2024-07-08,Netherlands,Gold
+C2143,Customer_144,2023-09-29,Japan,Gold
+C2144,Customer_145,2024-06-11,Netherlands,Gold
+C2145,Customer_146,2024-10-19,France,Bronze
+C2146,Customer_147,2024-07-21,UK,Bronze
+C2147,Customer_148,2023-06-23,Germany,Bronze
+C2148,Customer_149,2024-04-01,United States,Bronze
+C2149,Customer_150,2024-12-16,Singapore,Bronze
+C2150,Customer_151,2025-06-24,United States,Silver
+C2151,Customer_152,2025-07-07,Japan,Bronze
+C2152,Customer_153,2025-03-22,United States,Platinum
+C2153,Customer_154,2025-01-15,Canada,Gold
+C2154,Customer_155,2023-04-17,India,Silver
+C2155,Customer_156,2023-06-16,UK,Bronze
+C2156,Customer_157,2023-01-17,Netherlands,Platinum
+C2157,Customer_158,2025-07-02,United States,Bronze
+C2158,Customer_159,2025-06-17,Brazil,Silver
+C2159,Customer_160,2024-03-19,Australia,Bronze
+C2160,Customer_161,2024-06-23,United States,Gold
+C2161,Customer_162,2024-01-08,Canada,Gold
+C2162,Customer_163,2023-08-07,Australia,Bronze
+C2163,Customer_164,2023-05-22,Netherlands,Bronze
+C2164,Customer_165,2025-04-27,France,Platinum
+C2165,Customer_166,2023-09-20,United States,Platinum
+C2166,Customer_167,2023-03-16,Australia,Platinum
+C2167,Customer_168,2023-08-09,Netherlands,Gold
+C2168,Customer_169,2024-02-04,Germany,Bronze
+C2169,Customer_170,2022-12-17,Netherlands,Silver
+C2170,Customer_171,2023-07-27,Netherlands,Gold
+C2171,Customer_172,2023-11-30,Japan,Gold
+C2172,Customer_173,2023-01-04,Japan,Silver
+C2173,Customer_174,2024-04-29,France,Gold
+C2174,Customer_175,2023-10-31,France,Bronze
+C2175,Customer_176,2023-06-27,United States,Bronze
+C2176,Customer_177,2025-07-30,Japan,Platinum
+C2177,Customer_178,2024-12-29,United States,Platinum
+C2178,Customer_179,2024-03-19,Brazil,Platinum
+C2179,Customer_180,2023-06-29,UK,Bronze
+C2180,Customer_181,2024-07-02,Germany,Platinum
+C2181,Customer_182,2023-03-17,United States,Gold
+C2182,Customer_183,2023-06-01,Brazil,Gold
+C2183,Customer_184,2024-07-07,France,Platinum
+C2184,Customer_185,2025-01-09,Brazil,Gold
+C2185,Customer_186,2025-07-20,Netherlands,Gold
+C2186,Customer_187,2023-03-30,France,Silver
+C2187,Customer_188,2024-01-28,Singapore,Gold
+C2188,Customer_189,2023-02-24,Singapore,Silver
+C2189,Customer_190,2024-04-30,Japan,Gold
+C2190,Customer_191,2023-09-13,Brazil,Gold
+C2191,Customer_192,2024-01-07,Singapore,Gold
+C2192,Customer_193,2023-03-24,Australia,Silver
+C2193,Customer_194,2023-07-23,UK,Silver
+C2194,Customer_195,2024-12-06,UK,Bronze
+C2195,Customer_196,2024-01-18,Canada,Silver
+C2196,Customer_197,2025-04-30,Canada,Bronze
+C2197,Customer_198,2023-02-16,Australia,Platinum
+C2198,Customer_199,2023-08-01,Netherlands,Gold
+C2199,Customer_200,2024-04-06,India,Gold
+C2200,Customer_201,2024-06-23,UK,Bronze
+C2201,Customer_202,2024-12-16,Netherlands,Bronze
+C2202,Customer_203,2023-07-17,Brazil,Bronze
+C2203,Customer_204,2023-10-19,Singapore,Gold
+C2204,Customer_205,2025-02-14,Singapore,Bronze
+C2205,Customer_206,2024-02-10,Canada,Silver
+C2206,Customer_207,2025-06-29,Canada,Platinum
+C2207,Customer_208,2024-02-26,France,Platinum
+C2208,Customer_209,2025-02-25,UK,Bronze
+C2209,Customer_210,2023-04-18,Singapore,Gold
+C2210,Customer_211,2023-09-05,United States,Silver
+C2211,Customer_212,2024-12-04,Singapore,Bronze
+C2212,Customer_213,2025-05-10,India,Platinum
+C2213,Customer_214,2023-05-31,Netherlands,Gold
+C2214,Customer_215,2024-01-04,Singapore,Gold
+C2215,Customer_216,2023-09-22,Canada,Platinum
+C2216,Customer_217,2024-01-25,Singapore,Gold
+C2217,Customer_218,2024-01-08,Brazil,Silver
+C2218,Customer_219,2022-12-25,UK,Silver
+C2219,Customer_220,2023-10-28,United States,Gold
+C2220,Customer_221,2023-05-31,India,Bronze
+C2221,Customer_222,2025-07-07,Australia,Gold
+C2222,Customer_223,2023-11-23,UK,Platinum
+C2223,Customer_224,2024-01-26,Canada,Platinum
+C2224,Customer_225,2024-08-29,Netherlands,Platinum
+C2225,Customer_226,2023-05-29,India,Platinum
+C2226,Customer_227,2022-12-20,Canada,Gold
+C2227,Customer_228,2024-09-07,India,Silver
+C2228,Customer_229,2023-11-03,Brazil,Bronze
+C2229,Customer_230,2024-03-16,Canada,Bronze
+C2230,Customer_231,2024-08-21,Japan,Platinum
+C2231,Customer_232,2024-04-18,Germany,Platinum
+C2232,Customer_233,2024-12-16,Canada,Bronze
+C2233,Customer_234,2025-01-26,France,Platinum
+C2234,Customer_235,2024-12-22,France,Bronze
+C2235,Customer_236,2024-07-15,Australia,Platinum
+C2236,Customer_237,2024-07-23,Canada,Gold
+C2237,Customer_238,2024-10-25,Canada,Bronze
+C2238,Customer_239,2022-12-20,UK,Gold
+C2239,Customer_240,2023-11-10,France,Bronze
+C2240,Customer_241,2023-11-15,UK,Platinum
+C2241,Customer_242,2023-07-21,UK,Silver
+C2242,Customer_243,2024-11-18,Canada,Platinum
+C2243,Customer_244,2024-08-10,Canada,Bronze
+C2244,Customer_245,2023-08-25,Australia,Silver
+C2245,Customer_246,2024-05-05,Netherlands,Platinum
+C2246,Customer_247,2024-06-19,India,Silver
+C2247,Customer_248,2023-10-25,United States,Gold
+C2248,Customer_249,2024-09-20,United States,Platinum
+C2249,Customer_250,2023-09-27,Singapore,Bronze
+C2250,Customer_251,2024-12-22,UK,Silver
+C2251,Customer_252,2023-05-08,France,Gold
+C2252,Customer_253,2024-12-13,Netherlands,Platinum
+C2253,Customer_254,2023-09-20,Japan,Silver
+C2254,Customer_255,2023-10-10,Germany,Silver
+C2255,Customer_256,2023-04-30,Australia,Platinum
+C2256,Customer_257,2024-07-26,France,Bronze
+C2257,Customer_258,2023-10-02,France,Platinum
+C2258,Customer_259,2023-12-05,Japan,Platinum
+C2259,Customer_260,2024-04-19,France,Platinum
+C2260,Customer_261,2024-12-14,France,Silver
+C2261,Customer_262,2023-09-12,United States,Platinum
+C2262,Customer_263,2025-04-13,Japan,Bronze
+C2263,Customer_264,2023-04-27,Netherlands,Platinum
+C2264,Customer_265,2024-03-25,Germany,Platinum
+C2265,Customer_266,2024-05-19,Singapore,Gold
+C2266,Customer_267,2024-01-18,Japan,Bronze
+C2267,Customer_268,2024-11-09,Canada,Bronze
+C2268,Customer_269,2024-03-12,United States,Platinum
+C2269,Customer_270,2023-05-20,United States,Bronze
+C2270,Customer_271,2024-07-14,France,Gold
+C2271,Customer_272,2024-07-13,Brazil,Platinum
+C2272,Customer_273,2025-04-13,United States,Gold
+C2273,Customer_274,2023-11-30,Brazil,Platinum
+C2274,Customer_275,2023-11-18,Netherlands,Bronze
+C2275,Customer_276,2022-12-26,United States,Silver
+C2276,Customer_277,2025-05-15,Brazil,Gold
+C2277,Customer_278,2023-09-05,India,Platinum
+C2278,Customer_279,2025-04-13,India,Platinum
+C2279,Customer_280,2025-08-02,Australia,Bronze
+C2280,Customer_281,2023-11-01,Australia,Bronze
+C2281,Customer_282,2024-12-27,France,Gold
+C2282,Customer_283,2024-01-16,Germany,Silver
+C2283,Customer_284,2023-04-02,Canada,Silver
+C2284,Customer_285,2023-07-30,Singapore,Bronze
+C2285,Customer_286,2024-12-22,Canada,Silver
+C2286,Customer_287,2024-07-15,Germany,Silver
+C2287,Customer_288,2024-06-27,France,Platinum
+C2288,Customer_289,2023-11-05,UK,Platinum
+C2289,Customer_290,2025-03-27,Germany,Bronze
+C2290,Customer_291,2025-06-12,France,Gold
+C2291,Customer_292,2023-09-20,Canada,Gold
+C2292,Customer_293,2023-08-05,France,Silver
+C2293,Customer_294,2023-10-02,Netherlands,Bronze
+C2294,Customer_295,2023-08-25,Japan,Gold
+C2295,Customer_296,2024-06-14,Canada,Gold
+C2296,Customer_297,2024-11-30,Japan,Gold
+C2297,Customer_298,2023-04-21,India,Platinum
+C2298,Customer_299,2024-05-22,Germany,Gold
+C2299,Customer_300,2025-01-13,Singapore,Gold
+C2300,Customer_301,2025-02-01,Brazil,Silver
+C2301,Customer_302,2025-04-03,United States,Bronze
+C2302,Customer_303,2024-06-29,Netherlands,Bronze
+C2303,Customer_304,2023-06-29,Canada,Silver
+C2304,Customer_305,2024-10-14,Australia,Gold
+C2305,Customer_306,2024-10-28,Canada,Silver
+C2306,Customer_307,2023-04-20,Singapore,Gold
+C2307,Customer_308,2023-03-04,Brazil,Gold
+C2308,Customer_309,2023-12-03,Australia,Platinum
+C2309,Customer_310,2025-01-18,France,Bronze
+C2310,Customer_311,2023-02-09,UK,Silver
+C2311,Customer_312,2024-03-11,Japan,Gold
+C2312,Customer_313,2023-07-14,Japan,Bronze
+C2313,Customer_314,2025-03-13,UK,Platinum
+C2314,Customer_315,2023-12-04,France,Platinum
+C2315,Customer_316,2025-01-15,Canada,Bronze
+C2316,Customer_317,2025-04-02,United States,Platinum
+C2317,Customer_318,2025-01-29,Australia,Silver
+C2318,Customer_319,2024-09-12,United States,Platinum
+C2319,Customer_320,2024-04-27,Canada,Platinum
+C2320,Customer_321,2024-08-20,Singapore,Bronze
+C2321,Customer_322,2023-06-25,Australia,Platinum
+C2322,Customer_323,2023-10-14,India,Silver
+C2323,Customer_324,2023-07-02,United States,Platinum
+C2324,Customer_325,2022-12-23,France,Platinum
+C2325,Customer_326,2023-01-15,Brazil,Silver
+C2326,Customer_327,2024-06-27,UK,Platinum
+C2327,Customer_328,2024-08-23,Canada,Gold
+C2328,Customer_329,2022-12-15,Australia,Silver
+C2329,Customer_330,2024-03-11,Netherlands,Silver
+C2330,Customer_331,2025-03-10,UK,Gold
+C2331,Customer_332,2025-03-09,Brazil,Gold
+C2332,Customer_333,2023-03-24,Japan,Gold
+C2333,Customer_334,2023-08-24,India,Platinum
+C2334,Customer_335,2023-05-07,Singapore,Bronze
+C2335,Customer_336,2024-04-02,Australia,Silver
+C2336,Customer_337,2023-01-18,Singapore,Bronze
+C2337,Customer_338,2023-01-11,United States,Silver
+C2338,Customer_339,2023-11-03,Australia,Silver
+C2339,Customer_340,2024-01-31,United States,Gold
+C2340,Customer_341,2024-08-31,Singapore,Gold
+C2341,Customer_342,2023-03-16,India,Bronze
+C2342,Customer_343,2023-11-02,India,Gold
+C2343,Customer_344,2023-06-17,Australia,Bronze
+C2344,Customer_345,2022-12-25,Australia,Bronze
+C2345,Customer_346,2024-04-18,Japan,Bronze
+C2346,Customer_347,2023-01-01,United States,Platinum
+C2347,Customer_348,2025-03-06,France,Bronze
+C2348,Customer_349,2024-06-15,Germany,Bronze
+C2349,Customer_350,2024-10-10,Brazil,Gold
+C2350,Customer_351,2023-12-02,UK,Bronze
+C2351,Customer_352,2024-11-14,Netherlands,Platinum
+C2352,Customer_353,2023-07-02,United States,Platinum
+C2353,Customer_354,2025-03-13,Canada,Bronze
+C2354,Customer_355,2024-08-23,Australia,Silver
+C2355,Customer_356,2023-11-19,Singapore,Gold
+C2356,Customer_357,2024-01-10,Brazil,Gold
+C2357,Customer_358,2023-03-07,France,Platinum
+C2358,Customer_359,2025-08-02,Brazil,Platinum
+C2359,Customer_360,2023-02-19,India,Silver
+C2360,Customer_361,2024-10-04,Netherlands,Silver
+C2361,Customer_362,2024-11-23,France,Platinum
+C2362,Customer_363,2023-10-22,Netherlands,Bronze
+C2363,Customer_364,2024-05-08,Netherlands,Gold
+C2364,Customer_365,2025-06-28,Canada,Gold
+C2365,Customer_366,2025-02-25,Japan,Bronze
+C2366,Customer_367,2025-07-26,India,Bronze
+C2367,Customer_368,2024-12-14,UK,Gold
+C2368,Customer_369,2025-04-27,India,Gold
+C2369,Customer_370,2023-10-15,United States,Platinum
+C2370,Customer_371,2023-05-11,Netherlands,Bronze
+C2371,Customer_372,2025-01-08,France,Gold
+C2372,Customer_373,2025-03-26,Singapore,Silver
+C2373,Customer_374,2024-06-26,Canada,Silver
+C2374,Customer_375,2025-03-05,Australia,Gold
+C2375,Customer_376,2025-06-11,Australia,Silver
+C2376,Customer_377,2025-04-06,UK,Gold
+C2377,Customer_378,2023-10-01,Singapore,Gold
+C2378,Customer_379,2023-01-27,Canada,Gold
+C2379,Customer_380,2023-11-15,UK,Silver
+C2380,Customer_381,2023-12-26,Japan,Bronze
+C2381,Customer_382,2023-11-18,India,Bronze
+C2382,Customer_383,2022-12-10,Brazil,Silver
+C2383,Customer_384,2024-06-10,Netherlands,Platinum
+C2384,Customer_385,2024-06-08,Germany,Gold
+C2385,Customer_386,2025-04-22,France,Bronze
+C2386,Customer_387,2023-04-05,Singapore,Silver
+C2387,Customer_388,2024-11-23,United States,Bronze
+C2388,Customer_389,2024-12-20,Netherlands,Platinum
+C2389,Customer_390,2025-04-14,Netherlands,Platinum
+C2390,Customer_391,2024-03-12,Germany,Bronze
+C2391,Customer_392,2024-04-18,Netherlands,Bronze
+C2392,Customer_393,2025-04-27,Netherlands,Gold
+C2393,Customer_394,2025-03-04,Singapore,Platinum
+C2394,Customer_395,2023-03-27,United States,Bronze
+C2395,Customer_396,2023-02-02,Australia,Silver
+C2396,Customer_397,2023-02-20,Australia,Gold
+C2397,Customer_398,2023-03-10,UK,Bronze
+C2398,Customer_399,2024-08-31,Netherlands,Silver
+C2399,Customer_400,2023-08-29,Japan,Silver
+C2400,Customer_401,2023-05-05,Brazil,Gold
+C2401,Customer_402,2025-02-22,Japan,Bronze
+C2402,Customer_403,2023-08-15,UK,Platinum
+C2403,Customer_404,2022-12-21,Australia,Platinum
+C2404,Customer_405,2023-09-23,Canada,Platinum
+C2405,Customer_406,2025-02-24,UK,Platinum
+C2406,Customer_407,2024-01-02,Australia,Silver
+C2407,Customer_408,2023-05-26,Canada,Gold
+C2408,Customer_409,2024-07-02,Japan,Bronze
+C2409,Customer_410,2024-10-31,Japan,Platinum
+C2410,Customer_411,2023-05-11,United States,Platinum
+C2411,Customer_412,2023-01-31,France,Silver
+C2412,Customer_413,2024-03-18,Germany,Bronze
+C2413,Customer_414,2023-02-20,Brazil,Bronze
+C2414,Customer_415,2024-07-08,Brazil,Silver
+C2415,Customer_416,2025-03-22,France,Silver
+C2416,Customer_417,2025-01-21,India,Silver
+C2417,Customer_418,2024-06-29,Germany,Silver
+C2418,Customer_419,2023-11-03,United States,Bronze
+C2419,Customer_420,2025-07-02,Japan,Platinum
+C2420,Customer_421,2023-09-16,Brazil,Platinum
+C2421,Customer_422,2024-05-01,Brazil,Gold
+C2422,Customer_423,2022-12-23,Canada,Silver
+C2423,Customer_424,2023-03-05,UK,Platinum
+C2424,Customer_425,2024-04-21,France,Gold
+C2425,Customer_426,2024-07-25,United States,Gold
+C2426,Customer_427,2025-07-13,United States,Gold
+C2427,Customer_428,2023-07-16,Netherlands,Bronze
+C2428,Customer_429,2023-10-04,Australia,Gold
+C2429,Customer_430,2025-06-27,India,Platinum
+C2430,Customer_431,2024-12-17,UK,Platinum
+C2431,Customer_432,2024-08-04,Brazil,Silver
+C2432,Customer_433,2024-01-19,Netherlands,Silver
+C2433,Customer_434,2024-05-23,Japan,Bronze
+C2434,Customer_435,2023-06-20,UK,Silver
+C2435,Customer_436,2024-10-25,Singapore,Platinum
+C2436,Customer_437,2025-07-08,Germany,Gold
+C2437,Customer_438,2024-12-21,France,Platinum
+C2438,Customer_439,2024-10-31,France,Bronze
+C2439,Customer_440,2023-05-29,Brazil,Gold
+C2440,Customer_441,2023-12-04,Australia,Bronze
+C2441,Customer_442,2024-10-24,Brazil,Platinum
+C2442,Customer_443,2023-03-09,France,Silver
+C2443,Customer_444,2022-12-18,UK,Silver
+C2444,Customer_445,2024-04-10,France,Platinum
+C2445,Customer_446,2024-05-08,India,Gold
+C2446,Customer_447,2023-04-28,Canada,Gold
+C2447,Customer_448,2023-05-11,India,Platinum
+C2448,Customer_449,2023-10-15,Canada,Bronze
+C2449,Customer_450,2024-03-06,France,Silver
+C2450,Customer_451,2024-02-04,Australia,Platinum
+C2451,Customer_452,2025-01-24,Singapore,Silver
+C2452,Customer_453,2025-06-16,India,Gold
+C2453,Customer_454,2024-03-10,India,Gold
+C2454,Customer_455,2025-07-18,United States,Platinum
+C2455,Customer_456,2025-02-13,Singapore,Silver
+C2456,Customer_457,2024-12-27,Brazil,Silver
+C2457,Customer_458,2025-02-27,Canada,Bronze
+C2458,Customer_459,2024-04-14,France,Silver
+C2459,Customer_460,2025-06-19,France,Platinum
+C2460,Customer_461,2024-07-27,Singapore,Gold
+C2461,Customer_462,2024-03-04,Germany,Gold
+C2462,Customer_463,2025-04-27,Brazil,Platinum
+C2463,Customer_464,2023-02-24,France,Platinum
+C2464,Customer_465,2023-07-21,Brazil,Platinum
+C2465,Customer_466,2025-06-28,Singapore,Silver
+C2466,Customer_467,2024-10-28,UK,Platinum
+C2467,Customer_468,2024-08-20,UK,Bronze
+C2468,Customer_469,2024-03-25,UK,Silver
+C2469,Customer_470,2024-10-06,Netherlands,Silver
+C2470,Customer_471,2025-02-04,UK,Silver
+C2471,Customer_472,2023-12-06,France,Bronze
+C2472,Customer_473,2025-04-27,UK,Platinum
+C2473,Customer_474,2023-09-04,Canada,Silver
+C2474,Customer_475,2025-04-10,UK,Gold
+C2475,Customer_476,2025-01-25,India,Gold
+C2476,Customer_477,2024-11-24,Australia,Silver
+C2477,Customer_478,2023-01-19,India,Gold
+C2478,Customer_479,2025-02-24,Germany,Platinum
+C2479,Customer_480,2024-11-21,UK,Bronze
+C2480,Customer_481,2024-09-15,Australia,Silver
+C2481,Customer_482,2025-03-29,Japan,Bronze
+C2482,Customer_483,2025-07-17,Germany,Gold
+C2483,Customer_484,2023-06-03,India,Silver
+C2484,Customer_485,2023-07-31,Netherlands,Bronze
+C2485,Customer_486,2024-01-16,Japan,Bronze
+C2486,Customer_487,2024-01-12,Brazil,Silver
+C2487,Customer_488,2024-09-15,United States,Gold
+C2488,Customer_489,2023-03-16,UK,Gold
+C2489,Customer_490,2023-09-18,Japan,Silver
+C2490,Customer_491,2023-06-04,Brazil,Bronze
+C2491,Customer_492,2023-11-17,Canada,Bronze
+C2492,Customer_493,2024-10-20,Brazil,Bronze
+C2493,Customer_494,2023-01-04,Netherlands,Bronze
+C2494,Customer_495,2023-04-03,Canada,Gold
+C2495,Customer_496,2023-10-11,UK,Gold
+C2496,Customer_497,2022-12-16,Australia,Silver
+C2497,Customer_498,2023-11-04,Brazil,Bronze
+C2498,Customer_499,2025-03-02,Brazil,Gold
+C2499,Customer_500,2024-04-01,India,Gold
+C2500,Customer_501,2024-07-14,Canada,Silver
+C2501,Customer_502,2023-06-11,Canada,Platinum
+C2502,Customer_503,2025-04-22,United States,Silver
+C2503,Customer_504,2023-01-18,Japan,Bronze
+C2504,Customer_505,2024-07-07,Germany,Bronze
+C2505,Customer_506,2023-05-16,India,Gold
+C2506,Customer_507,2024-12-01,Netherlands,Platinum
+C2507,Customer_508,2025-02-09,UK,Silver
+C2508,Customer_509,2025-06-26,France,Bronze
+C2509,Customer_510,2024-04-14,Canada,Gold
+C2510,Customer_511,2023-09-22,Australia,Platinum
+C2511,Customer_512,2023-07-07,Netherlands,Platinum
+C2512,Customer_513,2024-02-13,Germany,Platinum
+C2513,Customer_514,2023-03-21,Canada,Gold
+C2514,Customer_515,2023-05-09,Canada,Bronze
+C2515,Customer_516,2023-01-26,Canada,Bronze
+C2516,Customer_517,2024-06-22,Germany,Gold
+C2517,Customer_518,2024-02-26,UK,Bronze
+C2518,Customer_519,2023-04-29,France,Gold
+C2519,Customer_520,2024-03-16,Netherlands,Silver
+C2520,Customer_521,2023-02-13,Canada,Gold
+C2521,Customer_522,2023-05-02,UK,Gold
+C2522,Customer_523,2025-06-29,Canada,Gold
+C2523,Customer_524,2023-09-19,United States,Bronze
+C2524,Customer_525,2025-07-15,Brazil,Platinum
+C2525,Customer_526,2024-09-17,Germany,Bronze
+C2526,Customer_527,2023-06-20,Japan,Bronze
+C2527,Customer_528,2024-03-10,India,Silver
+C2528,Customer_529,2024-06-30,Canada,Gold
+C2529,Customer_530,2023-10-20,UK,Silver
+C2530,Customer_531,2023-03-05,Canada,Gold
+C2531,Customer_532,2024-04-20,Netherlands,Bronze
+C2532,Customer_533,2025-03-14,United States,Gold
+C2533,Customer_534,2025-05-04,France,Gold
+C2534,Customer_535,2024-08-15,India,Bronze
+C2535,Customer_536,2023-04-23,United States,Platinum
+C2536,Customer_537,2023-05-27,Canada,Bronze
+C2537,Customer_538,2023-08-08,France,Platinum
+C2538,Customer_539,2022-12-19,Australia,Platinum
+C2539,Customer_540,2023-04-03,India,Silver
+C2540,Customer_541,2025-06-14,Japan,Silver
+C2541,Customer_542,2023-10-09,Canada,Bronze
+C2542,Customer_543,2023-09-06,Canada,Gold
+C2543,Customer_544,2024-01-07,United States,Gold
+C2544,Customer_545,2025-01-26,Germany,Silver
+C2545,Customer_546,2025-04-01,Germany,Bronze
+C2546,Customer_547,2025-03-07,Singapore,Silver
+C2547,Customer_548,2024-09-24,UK,Gold
+C2548,Customer_549,2024-01-12,Brazil,Gold
+C2549,Customer_550,2024-08-27,Germany,Bronze
+C2550,Customer_551,2024-10-03,Australia,Platinum
+C2551,Customer_552,2023-09-12,Brazil,Platinum
+C2552,Customer_553,2023-09-22,Canada,Platinum
+C2553,Customer_554,2023-04-19,United States,Silver
+C2554,Customer_555,2023-06-13,UK,Platinum
+C2555,Customer_556,2025-06-11,France,Silver
+C2556,Customer_557,2024-05-17,Brazil,Silver
+C2557,Customer_558,2023-11-30,Japan,Bronze
+C2558,Customer_559,2024-11-13,Singapore,Gold
+C2559,Customer_560,2025-06-12,Singapore,Gold
+C2560,Customer_561,2024-01-10,United States,Gold
+C2561,Customer_562,2023-11-23,Canada,Bronze
+C2562,Customer_563,2025-07-30,Germany,Gold
+C2563,Customer_564,2025-04-23,Australia,Bronze
+C2564,Customer_565,2025-01-20,Brazil,Silver
+C2565,Customer_566,2023-06-22,Brazil,Silver
+C2566,Customer_567,2023-03-11,Australia,Bronze
+C2567,Customer_568,2023-03-04,India,Bronze
+C2568,Customer_569,2024-08-19,Brazil,Gold
+C2569,Customer_570,2025-06-18,United States,Platinum
+C2570,Customer_571,2023-03-21,Brazil,Bronze
+C2571,Customer_572,2023-05-04,France,Gold
+C2572,Customer_573,2023-01-11,Germany,Platinum
+C2573,Customer_574,2023-05-07,Netherlands,Bronze
+C2574,Customer_575,2023-10-18,United States,Silver
+C2575,Customer_576,2024-11-08,Netherlands,Platinum
+C2576,Customer_577,2024-07-30,Germany,Gold
+C2577,Customer_578,2023-11-07,United States,Gold
+C2578,Customer_579,2025-04-20,Canada,Gold
+C2579,Customer_580,2023-10-04,Germany,Gold
+C2580,Customer_581,2023-10-15,Brazil,Bronze
+C2581,Customer_582,2023-10-17,Germany,Platinum
+C2582,Customer_583,2025-04-06,Australia,Platinum
+C2583,Customer_584,2023-04-26,Singapore,Bronze
+C2584,Customer_585,2023-06-09,Australia,Platinum
+C2585,Customer_586,2023-12-09,Canada,Silver
+C2586,Customer_587,2025-06-07,Australia,Gold
+C2587,Customer_588,2022-12-27,Singapore,Platinum
+C2588,Customer_589,2024-08-23,Canada,Platinum
+C2589,Customer_590,2023-07-25,Netherlands,Bronze
+C2590,Customer_591,2024-04-17,Japan,Platinum
+C2591,Customer_592,2025-04-09,Singapore,Gold
+C2592,Customer_593,2023-04-27,India,Gold
+C2593,Customer_594,2023-06-05,Netherlands,Gold
+C2594,Customer_595,2025-03-30,United States,Bronze
+C2595,Customer_596,2024-07-07,Germany,Gold
+C2596,Customer_597,2023-02-08,Canada,Platinum
+C2597,Customer_598,2023-11-02,UK,Platinum
+C2598,Customer_599,2025-06-07,Singapore,Gold
+C2599,Customer_600,2023-11-09,Canada,Bronze
+C2600,Customer_601,2024-03-09,Netherlands,Gold
+C2601,Customer_602,2023-07-15,Brazil,Bronze
+C2602,Customer_603,2023-05-25,India,Platinum
+C2603,Customer_604,2025-04-30,France,Gold
+C2604,Customer_605,2023-11-05,Singapore,Platinum
+C2605,Customer_606,2025-04-08,United States,Bronze
+C2606,Customer_607,2024-01-22,Singapore,Gold
+C2607,Customer_608,2023-12-12,Netherlands,Silver
+C2608,Customer_609,2024-04-03,Brazil,Silver
+C2609,Customer_610,2024-12-10,France,Silver
+C2610,Customer_611,2023-03-03,France,Gold
+C2611,Customer_612,2023-02-19,Brazil,Platinum
+C2612,Customer_613,2024-11-05,Brazil,Gold
+C2613,Customer_614,2025-01-27,UK,Gold
+C2614,Customer_615,2023-08-31,UK,Platinum
+C2615,Customer_616,2024-05-14,Canada,Bronze
+C2616,Customer_617,2024-01-01,Canada,Gold
+C2617,Customer_618,2023-06-06,Brazil,Silver
+C2618,Customer_619,2023-03-27,United States,Platinum
+C2619,Customer_620,2024-11-30,Japan,Silver
+C2620,Customer_621,2022-12-15,United States,Bronze
+C2621,Customer_622,2025-05-20,Brazil,Bronze
+C2622,Customer_623,2025-03-03,India,Platinum
+C2623,Customer_624,2023-10-18,Netherlands,Silver
+C2624,Customer_625,2024-05-26,Germany,Platinum
+C2625,Customer_626,2025-05-10,Brazil,Platinum
+C2626,Customer_627,2023-09-07,Brazil,Bronze
+C2627,Customer_628,2024-10-23,United States,Silver
+C2628,Customer_629,2024-12-27,Canada,Platinum
+C2629,Customer_630,2025-05-27,Canada,Gold
+C2630,Customer_631,2025-06-18,Japan,Gold
+C2631,Customer_632,2025-05-02,Canada,Gold
+C2632,Customer_633,2023-07-16,Canada,Silver
+C2633,Customer_634,2022-12-20,Australia,Gold
+C2634,Customer_635,2024-05-08,Australia,Gold
+C2635,Customer_636,2025-01-12,United States,Platinum
+C2636,Customer_637,2023-02-04,Netherlands,Gold
+C2637,Customer_638,2024-12-29,Brazil,Gold
+C2638,Customer_639,2024-04-17,UK,Platinum
+C2639,Customer_640,2024-05-29,France,Silver
+C2640,Customer_641,2024-08-28,UK,Gold
+C2641,Customer_642,2024-01-31,United States,Gold
+C2642,Customer_643,2023-12-01,France,Platinum
+C2643,Customer_644,2024-10-19,Singapore,Gold
+C2644,Customer_645,2024-11-23,Brazil,Gold
+C2645,Customer_646,2023-08-01,India,Silver
+C2646,Customer_647,2024-08-12,India,Silver
+C2647,Customer_648,2025-07-12,United States,Bronze
+C2648,Customer_649,2023-07-04,Japan,Gold
+C2649,Customer_650,2024-02-29,Canada,Bronze
+C2650,Customer_651,2023-07-08,United States,Bronze
+C2651,Customer_652,2023-04-20,United States,Platinum
+C2652,Customer_653,2025-04-26,Canada,Platinum
+C2653,Customer_654,2023-05-25,United States,Gold
+C2654,Customer_655,2025-02-05,France,Bronze
+C2655,Customer_656,2024-12-24,Singapore,Bronze
+C2656,Customer_657,2023-02-10,Japan,Silver
+C2657,Customer_658,2023-07-04,Japan,Platinum
+C2658,Customer_659,2023-10-15,Australia,Bronze
+C2659,Customer_660,2024-05-19,Australia,Bronze
+C2660,Customer_661,2023-12-05,France,Platinum
+C2661,Customer_662,2023-06-27,Brazil,Platinum
+C2662,Customer_663,2024-09-13,Japan,Gold
+C2663,Customer_664,2024-03-06,India,Gold
+C2664,Customer_665,2025-07-19,Japan,Gold
+C2665,Customer_666,2023-06-04,United States,Bronze
+C2666,Customer_667,2024-09-02,Canada,Gold
+C2667,Customer_668,2023-07-07,Brazil,Silver
+C2668,Customer_669,2024-11-19,Japan,Platinum
+C2669,Customer_670,2024-03-25,Canada,Bronze
+C2670,Customer_671,2023-02-20,UK,Silver
+C2671,Customer_672,2025-02-25,Japan,Gold
+C2672,Customer_673,2024-04-16,India,Gold
+C2673,Customer_674,2023-04-05,Germany,Platinum
+C2674,Customer_675,2023-10-10,France,Gold
+C2675,Customer_676,2023-02-08,Brazil,Bronze
+C2676,Customer_677,2023-09-14,France,Silver
+C2677,Customer_678,2023-09-29,India,Platinum
+C2678,Customer_679,2024-07-20,Germany,Platinum
+C2679,Customer_680,2024-02-06,Brazil,Gold
+C2680,Customer_681,2023-01-18,United States,Gold
+C2681,Customer_682,2022-12-21,Germany,Silver
+C2682,Customer_683,2023-09-13,Japan,Silver
+C2683,Customer_684,2024-06-03,France,Platinum
+C2684,Customer_685,2023-11-30,Brazil,Platinum
+C2685,Customer_686,2024-11-09,Brazil,Silver
+C2686,Customer_687,2023-04-22,India,Platinum
+C2687,Customer_688,2024-01-05,Brazil,Gold
+C2688,Customer_689,2024-06-13,India,Bronze
+C2689,Customer_690,2025-02-17,Brazil,Silver
+C2690,Customer_691,2023-04-15,Brazil,Silver
+C2691,Customer_692,2025-06-22,Australia,Platinum
+C2692,Customer_693,2024-01-26,Singapore,Platinum
+C2693,Customer_694,2024-10-23,Japan,Bronze
+C2694,Customer_695,2024-07-03,Germany,Platinum
+C2695,Customer_696,2025-07-23,UK,Platinum
+C2696,Customer_697,2023-12-06,Canada,Bronze
+C2697,Customer_698,2024-10-06,France,Bronze
+C2698,Customer_699,2023-02-18,United States,Bronze
+C2699,Customer_700,2024-11-24,Japan,Gold
+C2700,Customer_701,2024-03-23,United States,Bronze
+C2701,Customer_702,2023-07-12,Japan,Bronze
+C2702,Customer_703,2025-06-30,Netherlands,Silver
+C2703,Customer_704,2023-08-08,Japan,Gold
+C2704,Customer_705,2023-04-08,Netherlands,Platinum
+C2705,Customer_706,2025-05-06,UK,Silver
+C2706,Customer_707,2023-06-20,Canada,Bronze
+C2707,Customer_708,2023-12-08,Japan,Silver
+C2708,Customer_709,2023-01-25,United States,Bronze
+C2709,Customer_710,2022-12-08,Australia,Platinum
+C2710,Customer_711,2023-12-11,Brazil,Platinum
+C2711,Customer_712,2024-06-12,Canada,Silver
+C2712,Customer_713,2025-04-11,Japan,Gold
+C2713,Customer_714,2023-11-26,Australia,Silver
+C2714,Customer_715,2023-02-13,United States,Bronze
+C2715,Customer_716,2025-01-20,Canada,Bronze
+C2716,Customer_717,2023-05-01,Singapore,Bronze
+C2717,Customer_718,2024-03-21,India,Platinum
+C2718,Customer_719,2023-11-17,Brazil,Bronze
+C2719,Customer_720,2024-03-29,India,Platinum
+C2720,Customer_721,2025-05-21,Germany,Silver
+C2721,Customer_722,2024-06-17,Singapore,Gold
+C2722,Customer_723,2024-07-24,Australia,Gold
+C2723,Customer_724,2024-06-10,Australia,Silver
+C2724,Customer_725,2023-08-06,Brazil,Silver
+C2725,Customer_726,2024-10-31,France,Gold
+C2726,Customer_727,2023-07-05,Singapore,Platinum
+C2727,Customer_728,2023-09-28,Canada,Bronze
+C2728,Customer_729,2024-07-06,Netherlands,Gold
+C2729,Customer_730,2023-03-19,Canada,Platinum
+C2730,Customer_731,2024-05-04,Australia,Platinum
+C2731,Customer_732,2023-01-27,Japan,Silver
+C2732,Customer_733,2025-01-24,Australia,Silver
+C2733,Customer_734,2023-07-27,UK,Platinum
+C2734,Customer_735,2023-09-15,Germany,Platinum
+C2735,Customer_736,2025-04-27,Australia,Silver
+C2736,Customer_737,2024-02-03,UK,Platinum
+C2737,Customer_738,2025-04-30,UK,Silver
+C2738,Customer_739,2023-10-10,Australia,Platinum
+C2739,Customer_740,2023-10-11,Brazil,Bronze
+C2740,Customer_741,2025-01-26,Singapore,Silver
+C2741,Customer_742,2023-07-30,Germany,Gold
+C2742,Customer_743,2025-06-28,UK,Silver
+C2743,Customer_744,2023-06-16,India,Platinum
+C2744,Customer_745,2024-07-31,Singapore,Platinum
+C2745,Customer_746,2023-09-09,Australia,Gold
+C2746,Customer_747,2024-02-26,Netherlands,Gold
+C2747,Customer_748,2024-10-29,France,Gold
+C2748,Customer_749,2024-12-30,Canada,Platinum
+C2749,Customer_750,2023-03-21,Japan,Gold
+C2750,Customer_751,2023-03-15,Australia,Gold
+C2751,Customer_752,2023-05-29,UK,Silver
+C2752,Customer_753,2024-11-04,United States,Bronze
+C2753,Customer_754,2023-03-07,Netherlands,Gold
+C2754,Customer_755,2025-06-03,Singapore,Gold
+C2755,Customer_756,2023-12-17,Japan,Silver
+C2756,Customer_757,2023-03-08,France,Gold
+C2757,Customer_758,2023-08-06,Netherlands,Platinum
+C2758,Customer_759,2024-08-27,Australia,Silver
+C2759,Customer_760,2024-07-03,Japan,Silver
+C2760,Customer_761,2023-09-05,Brazil,Bronze
+C2761,Customer_762,2025-07-16,United States,Bronze
+C2762,Customer_763,2025-02-08,United States,Bronze
+C2763,Customer_764,2023-12-01,Germany,Silver
+C2764,Customer_765,2024-07-04,Singapore,Bronze
+C2765,Customer_766,2024-05-16,Japan,Gold
+C2766,Customer_767,2024-12-14,Japan,Platinum
+C2767,Customer_768,2023-02-01,India,Platinum
+C2768,Customer_769,2025-05-20,India,Gold
+C2769,Customer_770,2024-11-12,Canada,Bronze
+C2770,Customer_771,2024-05-06,Brazil,Platinum
+C2771,Customer_772,2023-05-31,India,Bronze
+C2772,Customer_773,2023-08-17,United States,Silver
+C2773,Customer_774,2023-07-31,Australia,Gold
+C2774,Customer_775,2024-07-16,Netherlands,Bronze
+C2775,Customer_776,2024-01-18,Netherlands,Platinum
+C2776,Customer_777,2023-04-06,United States,Silver
+C2777,Customer_778,2024-03-16,UK,Bronze
+C2778,Customer_779,2024-08-02,Japan,Platinum
+C2779,Customer_780,2025-03-13,Netherlands,Bronze
+C2780,Customer_781,2023-03-03,United States,Silver
+C2781,Customer_782,2025-05-27,Japan,Platinum
+C2782,Customer_783,2025-04-27,Canada,Bronze
+C2783,Customer_784,2024-07-04,United States,Silver
+C2784,Customer_785,2025-07-10,Japan,Gold
+C2785,Customer_786,2022-12-30,India,Gold
+C2786,Customer_787,2023-02-25,Brazil,Bronze
+C2787,Customer_788,2024-04-22,Australia,Bronze
+C2788,Customer_789,2024-04-07,Singapore,Platinum
+C2789,Customer_790,2024-01-17,Australia,Silver
+C2790,Customer_791,2025-03-06,United States,Platinum
+C2791,Customer_792,2025-03-13,Brazil,Gold
+C2792,Customer_793,2024-01-13,Germany,Bronze
+C2793,Customer_794,2025-06-26,Brazil,Gold
+C2794,Customer_795,2025-04-17,India,Platinum
+C2795,Customer_796,2023-09-11,India,Gold
+C2796,Customer_797,2025-06-23,Brazil,Platinum
+C2797,Customer_798,2025-01-30,UK,Gold
+C2798,Customer_799,2023-01-12,Netherlands,Silver
+C2799,Customer_800,2024-07-02,Netherlands,Platinum
