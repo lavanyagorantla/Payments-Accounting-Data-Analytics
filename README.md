@@ -145,3 +145,42 @@ Automate reconciliation using thresholds (>₹0.50 mismatch flag).
 Deploy chargeback alerts in France & Japan.
 Introduce UPI & wallet promotions to diversify payment mix.
 Refine loyalty tier campaigns for high-value segments.
+
+
+
+
+
+Payments Accounting Data Analytics Dashboard
+Power up your financial insights with a fully built and professionally designed Power BI dashboard—ideal for analysts, business users, and students eager to showcase their analytic capabilities.
+
+ What's Inside
+1. Modular Dashboard for Multifaceted Insights
+Navigate through structured sections tailored to enterprise and accounting needs:
+Executive Summary: Instant access to key metrics like total processed payments, net revenue, chargeback rate, and reconciliation mismatches.
+Payments Health: Visualize trends and breakdowns across payment methods (cards, UPI, wallets) and gateways.
+Reconciliation & Root-Cause: Drill into mismatches, dispute reasons, and flagged transactions—all with precision.
+
+2. Interactive, Dynamic Filters
+Tailor your analysis in real time:
+Date Range Filtering: Day, month, quarter, year-to-date, custom periods.
+Segment-Level Views: Filter by Region, Merchant, Payment Gateway, Status (e.g. Chargeback), Reconciliation Status.
+
+3. Advanced Visual Storytelling
+Experience responsive, user-driven visuals:
+KPI Cards: Strategically placed for rapid executive insights.
+Trend Lines & Combo Charts: Seamlessly analyze revenue, mismatches, and volume over time.
+Heatmaps & Geomaps: Highlight regional chargeback risk and reconciliation hotspots.
+Drillthrough Tables: Interactive unmatched transaction listings with conditional formatting (mismatch > ₹0.50 highlighted).
+
+4. Workflow-Ready Navigation
+Easily switch between pages: Overview → Payments Breakdown → Reconciliation Drilldown. Designed for fluid interaction and stakeholder demos.
+
+5. Ready to Impress
+Ideal for enhancing portfolios, team presentations, or academic showcases:
+Clear, business-focused design
+Story-driven layout, aligning visuals with financial risk & revenue themes
+Export-ready visuals—perfect for stakeholder deliverables.
+Perfect For...
+Business Analysts & Finance Teams: Quickly uncover insights from reconciliation to net revenue.
+Data Professionals: Showcase your mastery of DAX, Power BI modeling, and storytelling capabilities.
+Students & Learners: A comprehensive, real-world project to sharpen your analytics skills end-to-end.
