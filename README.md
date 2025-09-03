@@ -67,7 +67,7 @@ designed to monitor transactions, revenue, chargebacks, and reconciliation healt
 
 ## Features
 - **Interactive filters**: Date, Region, Payment Gateway, Payment Method
-- **Reconciliation module**: Highlights unmatched transactions (`> ₹0.50 mismatch`)
+- **Reconciliation module**: Highlights unmatched transactions 
 - **Chargeback hotspot analysis**
 - **Top merchants & categories breakdown**
 
@@ -91,3 +91,57 @@ designed to monitor transactions, revenue, chargebacks, and reconciliation healt
 ## Author
 Lavanya – Data Analyst (Payments & Accounting Analytics)
 
+
+
+Data Storytelling – Payments Accounting Dashboard
+1. Objective
+The analysis aims to:Monitor total payments volume, net revenue, chargeback rates, and reconciliation mismatches.
+
+Provide actionable insights for payments accounting & finance teams.
+Identify unmatched transactions, high-risk merchants, and optimize payment gateways.
+
+2. Key Highlights (Executive Summary)
+Total Amount Processed: ₹383,428
+Net Revenue: ₹352,787
+Chargeback Rate: 2% – within acceptable range but with country-level variance.
+Unmatched Count: 179 transactions, total mismatch amount ~₹23,787.
+
+3. Geographic Insights
+Top Performing Countries (Net Revenue):
+Canada: ₹61K
+United States: ₹46K
+Singapore: ₹33K
+Chargeback Hotspots:
+France (3.4%)
+Japan (3.2%)
+India (2.2%)
+
+Action: Focus fraud prevention & dispute management in high chargeback regions.
+4. Category & Loyalty Insights
+
+Top Categories by Total Amount:
+Travel: ₹108K
+Accommodation: ₹106K
+Retail: ₹83K
+Top Loyalty Tiers:
+Gold: ₹105K
+Platinum: ₹98K
+
+Action: High-spend loyalty tiers (Gold/Platinum) show strong engagement — consider exclusive payment offers.
+5. Payment Gateway & Method Analysis
+Payment Gateway Distribution: GatewayA (24K), GatewayB (23K), GatewayC (18K)
+Payment Method: Cards dominate (100%) — UPI/wallet adoption is low (potential growth area).
+
+Action: Optimize routing rules between GatewayA & GatewayB during peak months (June, August, September).
+6. Reconciliation & Risk
+Mismatch Amount: ₹23,787
+Refund Amount: ₹1,228
+
+Top unmatched merchants include Merchant_31, Merchant_44, Merchant_60.
+
+Action: Investigate these merchants’ settlements and implement auto-reconciliation rules.
+7. Recommendations
+Automate reconciliation using thresholds (>₹0.50 mismatch flag).
+Deploy chargeback alerts in France & Japan.
+Introduce UPI & wallet promotions to diversify payment mix.
+Refine loyalty tier campaigns for high-value segments.
