@@ -1,0 +1,28 @@
+# Payments Accounting Data Analysis
+
+This repository contains the full data analytics project for payments reconciliation, revenue tracking, and chargeback monitoring using Power BI.
+
+## Key Insights
+- Total Processed: 383,428
+- Net Revenue: 352,787
+- Chargeback Rate: 2%
+- Unmatched Transactions: 179
+
+## Tech Stack
+- Power BI
+- SQL (Snowflake)
+- Python for ETL
+- GitHub for version control
+
+## Files
+- `/data` – Synthetic dataset
+- `/dashboard` – Power BI dashboard (.pbix + screenshots)
+- `/docs` – Data dictionary & insights
+
+## How to Use
+1. Download the PBIX file.
+2. Connect to `/data/transactions.csv` etc.
+3. Refresh the dashboard.
+
+## Author
+Lavanya Gorantla
